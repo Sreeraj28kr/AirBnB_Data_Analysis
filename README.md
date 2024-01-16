@@ -1,6 +1,8 @@
 # AirBnB_Data_Analysis
 Explored Airbnb's data using Tableau, delving beyond bookings to uncover key insights that contributed to improving Airbnb's business.
 
+## Project Dashboard
+
 ![Airbnb dashboard](https://github.com/Sreeraj28kr/Vrinda_Store_Data_Analysis/assets/153048765/c2dc8a00-839b-4416-8aa6-94ce7e1dd3f8)
 
 ## Project Learnings
